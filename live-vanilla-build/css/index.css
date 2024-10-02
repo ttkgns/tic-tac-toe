@@ -76,8 +76,6 @@ button:hover{
 }
 
 .turn{
-  color:var(--yellow);
-
   align-self: center;
   display: flex;
   align-items: center;
